@@ -1,4 +1,6 @@
-venv
+/venv/
 run.py
 interpi_client/requirements.txt
-.idea
+interpi_client/sound.wav
+/.idea/
+interpi_client/config.ini
